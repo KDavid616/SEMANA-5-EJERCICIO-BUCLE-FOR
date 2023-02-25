@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEMANA 5 EJERCICIO BUCLE FOR/1.0.0": {
+        "runtime": {
+          "SEMANA 5 EJERCICIO BUCLE FOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEMANA 5 EJERCICIO BUCLE FOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
